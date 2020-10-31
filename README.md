@@ -23,4 +23,4 @@ Then to establish entangled networks across colleges or cities, then throughout 
 They hailed it as a milestone on the way to developing a national quantum internet. It’s still a long way off though. The Department of Energy estimates a prototype sometime in the next decade. Even when it’s all set up, don't expect to plug into the quantum ‘net. Unless whatever information you’re sending needs to be ultra-secure, you’re probably just going to keep streaming your cat videos using the flashing lights in glass fibers like you do now. 
 
 About Me :
-I am Webdeveloper and blogger.I have developed the following websites form my clients : <a href = "https://allwish.me"> Allwish </a>,<a rel= href="https://theturks.in"> The Turks </a>, <a href="https://daredevilgaming.com"> Daredevil Gaming </a>.
+I am Webdeveloper and blogger.I have developed the following websites form my clients : <a href="https://theturks.in"> The Turks </a>, <a href="https://daredevilgaming.com"> Daredevil Gaming </a>, <a href = "https://allwish.me"> Allwish </a>.
